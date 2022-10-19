@@ -1,22 +1,29 @@
 ## Table of contents
-* [About me](#about-me)
+* [About Me](#about-me)
 * [What I use](#technologies)
-* [My work](#setup)
+* [Portfolio](#portfolio)
+* [Statistics](#statistics)
+* [Media](#media)
 
-## About me
-This project is simple Lorem ipsum dolor generator.
+## About Me
+About me here
 	
-## What I use
-Project is created with:
+## What I Use
 * Lorem version: 12.3
 * Ipsum version: 2.33
 * Ament library version: 999
 	
-## My work
-To run this project, install it locally using npm:
+## Portfolio
+Portfolio here
 
 ```
 $ cd ../lorem
 $ npm install
 $ npm start
 ```
+
+## Media
+Media Here
+
+## Statistics
+Statistics Here
