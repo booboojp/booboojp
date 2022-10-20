@@ -15,7 +15,7 @@
   <a href="https://github.com/booboojp/DenverCoder1-readme-streak-stats">
   </a>
 </p>
-## 📊 Github stats
+##📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
