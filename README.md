@@ -17,6 +17,45 @@
   </a>
 </p>
 
+
+
+<!--
+🛠️ What I Use
+📋 Programming Languages
+<p>
+    <a>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
+</p>
+📚 Frameworks, Platforms and Libraries
+
+
+
+
+🌐 Browsers
+📂 Cloud Storage
+💲 Cryptocurrency
+💾 Databases
+🎨 Design
+🧑‍💻 Developer/Forums
+📑 Documentation Platforms
+🎓 Education
+💰 Funding
+🎮 Gaming
+🕹️ Game Consoles
+☁️ Hosting/SaaS
+💻 IDEs/Editors
+🖥️ ML/DL
+🎶 Music
+🏢 Office
+🎛️ Operating System
+🔍 Search Engines
+🗄️ Servers
+💬 Social
+📺 Streaming
+🕓 Version Control
+ f-->
+
+
+
 ##📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
