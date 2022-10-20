@@ -8,6 +8,7 @@
 </p>
 <!-- Social badges section -->
 <!--https://github.com/DenverCoder1/DenverCoder1-->
+
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -15,6 +16,7 @@
   <a href="https://github.com/booboojp/DenverCoder1-readme-streak-stats">
   </a>
 </p>
+
 ##📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
