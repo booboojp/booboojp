@@ -19,7 +19,7 @@
 
 
 
-<!--
+
 🛠️ What I Use
 📋 Programming Languages
 <p>
@@ -52,7 +52,6 @@
 💬 Social
 📺 Streaming
 🕓 Version Control
- f-->
 
 
 
