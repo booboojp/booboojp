@@ -8,7 +8,7 @@
 </p>
 <!-- Social badges section -->
 <!--https://github.com/DenverCoder1/DenverCoder1-->
-
+Loves Coding Websites, Minecraft Mods Minecraft Plugins
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
