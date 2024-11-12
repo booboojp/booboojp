@@ -19,16 +19,15 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@latest
+      - name: Achievements
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.compact.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          filename: achievements.svg
+          token: ${{ secrets.TOKEN }}
           base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
           plugin_achievements: yes
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.achievements.full.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_repositories: yes
-          plugin_repositories_featured: booboojp/spellbook
+          plugin_achievements_display: compact
+          plugin_fortune: yes

@@ -1,3 +1,2 @@
 ![Metrics](/metrics.svg)
-![Metrics-Achievements](/metrics.plugin.achievements.compact.svg)
-![Metics](/metrics.plugin.achievements.full.svg)
+![Metrics-Achievements](/achievements.svg)
