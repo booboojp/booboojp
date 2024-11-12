@@ -21,9 +21,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.full.svg
